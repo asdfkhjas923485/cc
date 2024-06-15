@@ -76,7 +76,7 @@ export const projects = [
     des: "HRIS is an information management system that handles employee data, payroll, attendance, and performance evaluations.",
     img: "/pro1.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "pansustudio.com",
+    link: "/pansustudio.com",
   },
   {
     id: 2,
@@ -84,7 +84,7 @@ export const projects = [
     des: "A responsive website is designed to adapt its appearance and functionality across various devices and screen sizes.",
     img: "/quiz.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "ruanghijrah.com",
+    link: "/ruanghijrah.com",
   },
   {
     id: 3,
@@ -92,7 +92,7 @@ export const projects = [
     des: "Dapoer Barokah is a website that offers nasi box, snack box, and Jumat Berkah.",
     img: "/dapoer.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "HAKI",
+    link: "/HAKI",
   },
   {
     id: 4,
@@ -100,7 +100,7 @@ export const projects = [
     des: "Alumni Search enables alumni to connect and share information.",
     img: "/univ.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "alumnisearch.com",
+    link: "/alumnisearch.com",
   },
 
   

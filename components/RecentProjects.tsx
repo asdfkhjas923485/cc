@@ -9,7 +9,7 @@ const RecentProjects = () => {
   return (
     <div className="py-20" id="alawi">
         <h1 className="heading">
-        AL's{" "}
+        2024{" "}
         <span className="text-purple">Certificates</span>
       </h1>
       <div className="flex flex-wrap items-center justify-center p-4 gap-10 mt-10">
@@ -20,12 +20,12 @@ const RecentProjects = () => {
           >
             <PinContainer
               title={item.link}
-              href="https://www.instagram.com/maarifalawii/"
+              href="https://www.instagram.com/90lsv/"
             >
               <div className="relative flex items-center justify-center sm:w-96 w-[80vw] overflow-hidden h-[20vh] lg:h-[30vh] mb-10">
                 <div
                   className="relative w-full h-full overflow-hidden lg:rounded-3xl"
-                  style={{ backgroundColor: "#FFFF" }}
+                  style={{ backgroundColor: "#13162D" }}
                 >
                   <img src="/bg.png" alt="bgimg" />
                 </div>
@@ -33,11 +33,6 @@ const RecentProjects = () => {
                   src={item.img}
                   alt="cover"
                   className="z-10 absolute bottom-0"
-                  style={{
-                    width: "100%", // Ensures full width
-                    height: "100%", // Ensures full height
-                    objectFit: "contain", // Ensures the image fits fully within the container
-                  }}
                 />
               </div>
 

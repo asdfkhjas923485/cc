@@ -51,22 +51,11 @@ const Hero = () => {
            *
            *  change md:text-6xl, add more responsive code
            */}
-          <TextGenerateEffect
-            words="Hi! I'm Maarif Alawi loves data science & bussines"
-            className="text-center text-[40px] md:text-5xl lg:text-6xl"
-          />
+       
 
-          <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-          20th, Based in Jakarta.
-          </p>
+        
 
-          <a href="#about">
-            <MagicButton
-              title="Show my work"
-              icon={<FaLocationArrow />}
-              position="right"
-            />
-          </a>
+         
         </div>
       </div>
     </div>

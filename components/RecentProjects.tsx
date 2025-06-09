@@ -9,8 +9,8 @@ const RecentProjects = () => {
   return (
     <div className="py-20">
     <h1 className="heading">
-        2024{" "}
-        <span className="text-purple">Recaps</span>
+        Maarif Alawi's{" "}
+        <span className="text-purple">Certificates</span>
       </h1>
       <div className="flex flex-wrap items-center justify-center p-4 gap-10 mt-10">
         {projects.map((item) => (

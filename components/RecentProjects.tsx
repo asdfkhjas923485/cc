@@ -33,6 +33,11 @@ const RecentProjects = () => {
                   src={item.img}
                   alt="cover"
                   className="z-10 absolute bottom-0"
+                  style={{
+                    width: "100%", // Ensures full width
+                    height: "100%", // Ensures full height
+                    objectFit: "contain", // Ensures the image fits fully within the container
+                  }}
                 />
               </div>
 

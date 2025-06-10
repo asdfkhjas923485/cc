@@ -9,7 +9,7 @@ const RecentProjects = () => {
   return (
     <div className="py-20" id="alawi">
         <h1 className="heading">
-        2024{" "}
+        My{" "}
         <span className="text-purple">Certificates</span>
       </h1>
       <div className="flex flex-wrap items-center justify-center p-4 gap-10 mt-10">
